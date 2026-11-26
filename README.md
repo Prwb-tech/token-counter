@@ -17,7 +17,7 @@ Once installed, Token Counter sits in a small panel beside the chat, quiet until
 - **Weekly usage** — your rolling week-to-date consumption, so a heavy Monday cannot push you into the weekly limit by Thursday without warning; the week view is what turns a plan from a daily guess into a weekly budget.
 - **Reset timer ⏱** — an exact countdown to the next reset, so "roughly this evening" becomes a time you can actually plan around.
 
-<img src="screenshots/dark-theme-usage-widget.png" width="760" alt="Token Counter dark theme — 86% session used, weekly limit 31%, resets in 41:10">
+<img src="dark-theme-usage-widget.png" width="760" alt="Token Counter dark theme — 86% session used, weekly limit 31%, resets in 41:10">
 
 A progress bar tells you a number is going down. That is all it was ever going to tell you. The point of a Claude token counter is the rest of the picture: how fast the bar moves and when what is left comes back. Both of those are things you can act on — pace tells you whether to finish the draft now or after dinner, and the countdown tells you whether "after dinner" is even an option. If you have ever searched for how to track Claude usage and found only API dashboards aimed at developers, this Claude token counter extension is the missing piece — a Claude token usage tracker built for the chat you already have open, reading what your plan is actually doing rather than what a pricing page promises.
 
@@ -38,7 +38,7 @@ Chat subscribers on claude.ai — Free, Pro and Max plans. If your workday runs 
 
 Think of it as a Claude desktop usage tracker: it lives on your screen beside the conversation, not in a web dashboard you have to remember to open. That form factor is the difference between occasionally checking your usage and actually watching it move. A tracker you have to open is a tracker you will forget; one that is simply there, next to the conversation, gets consulted dozens of times a day without costing a second.
 
-<img src="screenshots/toolbar-tooltip.png" width="760" alt="Token Counter icon in the Chrome toolbar — session 42%, weekly 31% and reset times">
+<img src="toolbar-tooltip.png" width="760" alt="Token Counter icon in the Chrome toolbar — session 42%, weekly 31% and reset times">
 
 It earns its keep on the specific days: the long task started at 80 percent, the last day of the billing week, the send-it-now-or-after-the-reset call. Those decisions need a number, not a feeling. None of these are edge cases; on a plan you depend on, they are most days of the month.
 
