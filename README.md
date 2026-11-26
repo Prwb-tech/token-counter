@@ -7,7 +7,7 @@
 
 Token Counter is a Claude usage tracker that shows your Claude usage limits in real time — while there is still room to act, before "limit reached" and not after it. It reads the same on Free, Pro and Max: same panel, same numbers.
 
-<img src="screenshots/claude-chat-panel.png" width="760" alt="Token Counter panel beside the Claude chat — session 42%, weekly 31%">
+<img src="claude-chat-panel.png" width="760" alt="Token Counter panel beside the Claude chat — session 42%, weekly 31%">
 
 ## What it tracks
 
