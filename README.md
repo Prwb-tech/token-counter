@@ -10,6 +10,7 @@ Token Counter is a Claude usage tracker that shows your Claude usage limits in r
 <p align="center">
   <img src="claude-chat-panel.png" alt="Token Counter panel beside the Claude chat — session 42%, weekly 31%">
 </p>
+
 ## What it tracks
 
 Once installed, Token Counter sits in a small panel beside the chat, quiet until you look at it, and updates as you work. If you have been guessing what is left by feel, this replaces the guess. Three numbers, no settings to dig through, nothing to interpret:
